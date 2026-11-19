@@ -1,4 +1,4 @@
-![QuantumMoney-Lab cover](assets/cover.png)
+![QuantumMoney-Lab cover](QuantumMoney-Lab%20cover.png)
 
 # QuantumMoney-Lab 💵⚛️
 
